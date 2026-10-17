@@ -1,0 +1,12 @@
+.env
+config.json
+data/
+.venv/
+.testdeps/
+__pycache__/
+*.py[cod]
+*.log
+logs/
+backups/
+*.db
+.pytest_cache/
